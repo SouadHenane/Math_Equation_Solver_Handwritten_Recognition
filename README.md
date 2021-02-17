@@ -4,28 +4,6 @@ The application will be able to predict and solve handwritten mathematical equat
 
 Key AI concepts used include OCR (Optical Character Recognition) and CNN (Convolutional Neural Networks). OCR is used to preprocess the image and segment characters, while CNN is used to predict the characters.
 
-Download the repo, move to the folder and run
-
-## Installation
-
-The repository can either be cloned or downloaded as a zip.
-
-Run `npm install` inside the project directory to install all dependencies.
-
-## Execution
-
-Both ReactJS and Flask have to be executed :
-
-```
-npm start
-cd Equation-Solver
-python -m flask run
-```
-
-## Result 
-
-### When image is written through sketchpad
-
 
 <p float="left" align="middle">
    <img src="https://github.com/sabari205/Equation-solver/blob/master/images/sketchpad1.jpeg" alt="sketchpad-1" width="500" />
